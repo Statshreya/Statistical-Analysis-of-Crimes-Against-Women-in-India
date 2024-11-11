@@ -1,0 +1,2 @@
+# Statistical-Analysis-of-Crimes-Against-Women-in-India
+The project analyzed crime against women in India from 2001 to 2010, using statistical methods to understand trends and relationships. Tests of independence, effect size, residual analysis, and trend analysis were used to examine the relationship between variables, identify patterns, and detect long-term changes in crime patterns over the decade.
